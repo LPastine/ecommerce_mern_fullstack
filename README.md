@@ -30,7 +30,7 @@ Ou faça login como administrador na seguinte conta:
 email: admin@example.com <br>
 password: 123456
 
-... e veja as funcionalidades que o site tem para administradores também!
+... e veja as funcionalidades para administradores também!
 
 Conheça um pouco mais da minha história em: www.lucianopastine.tech
 
